@@ -1,0 +1,12 @@
+body {
+    background-image: url('../img/img5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color: white;
+}
+
+.border{
+    border: 2px dashed white;
+    border-radius: 20px;
+}
